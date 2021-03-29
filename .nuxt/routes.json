@@ -1,0 +1,23 @@
+[
+  {
+    "name": "details",
+    "path": "/details",
+    "component": "/Users/fayes/Nuxt-app/pages/details/index.vue",
+    "chunkName": "pages/details/index",
+    "_name": "_276e2ec6"
+  },
+  {
+    "name": "details-id",
+    "path": "/details/:id",
+    "component": "/Users/fayes/Nuxt-app/pages/details/_id.vue",
+    "chunkName": "pages/details/_id",
+    "_name": "_f97b2376"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/fayes/Nuxt-app/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_5cfa5c2a"
+  }
+]
